@@ -14,7 +14,7 @@ const teamSlides = [
     nickname: "✿ﮩ٨ـﮩﮩ٨ـˢᵐⁱˡᵉʸﮩ٨ـﮩﮩ٨ـ✿",
     description:
       "Hi, I'm Smiley, people call me \"Lax\". I am currently trying to learn something new, building my own community with parts made only in India.",
-    link: "https://t.me/ilakshu",
+    link: "",
   },
   {
     img: h6Img,
@@ -23,7 +23,7 @@ const teamSlides = [
     nickname: "💛℘αηɉυ ɱιттαι®🫧⃟🤍",
     description:
       "Hi, I'm Panju Mittai, Close friends call me \"Candy\". I don't just listen—I play, write, and breathe music.",
-    link: "https://t.me/Bubblykutti",
+    link: "",
   },
   {
     img: h8Img,
@@ -32,7 +32,7 @@ const teamSlides = [
     nickname: "░▒▓█🇸‌🇮‌🇲‌🇧‌🇦‌█▓▒░",
     description:
       "Hi, I'm Vingesh, people call me \"SIMBA\". I am currently trying to learn something new, building my own Game community with parts made only in India.",
-    link: "https://t.me/Simba_itsme",
+    link: "",
   },
 ];
 
