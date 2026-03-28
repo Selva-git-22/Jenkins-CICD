@@ -37,7 +37,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="https://t.me/Solo_Tree_support"
+              href="https://solotree.in/contact"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-1.5 rounded-lg bg-primary text-primary-foreground text-sm font-semibold hover:opacity-90 transition-opacity"
@@ -76,7 +76,7 @@ const Navbar = () => {
             ))}
             <li>
               <a
-                href="https://t.me/Solo_Tree_support"
+                href="https://solotree.in/contact"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-4 py-1.5 rounded-lg bg-primary text-primary-foreground text-sm font-semibold"
