@@ -10,7 +10,7 @@ const Footer = () => (
         <Link to="/privacy" className="text-sm text-muted-foreground hover:text-primary transition-colors">Privacy Policy</Link>
       </div>
       <p className="text-sm text-muted-foreground">
-        © 2023 Ѕᴏʟᴏ Tʀᴇᴇ. All Rights Reserved.
+        © 2025 Ѕᴏʟᴏ Tʀᴇᴇ. All Rights Reserved.
       </p>
     </div>
   </footer>
