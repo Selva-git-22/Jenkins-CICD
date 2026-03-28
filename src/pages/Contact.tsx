@@ -8,17 +8,31 @@ const Contact = () => (
       </h1>
 
       <div className="gradient-container rounded-2xl p-8 border border-border">
-        <h2 className="text-xl font-bold text-foreground mb-6">Official Business Contacts</h2>
+        <h2 className="text-xl font-bold text-foreground mb-6">
+          Official Business Contacts
+        </h2>
+
         <ul className="space-y-4 text-muted-foreground">
           <li>
             <span className="font-semibold text-foreground">Business Name:</span> Solo Tree
           </li>
+
+          <li>
+            <span className="font-semibold text-foreground">Udyam Registration:</span>{" "}
+            UDYAM-TN-27-0111184
+          </li>
+
+          <li>
+            <span className="font-semibold text-foreground">Enterprise Type:</span> Micro Enterprise (MSME Registered)
+          </li>
+
           <li>
             <span className="font-semibold text-foreground">Email:</span>{" "}
             <a href="mailto:solotree@gmail.com" className="text-primary hover:underline">
               solotree@gmail.com
             </a>
           </li>
+
           <li>
             <span className="font-semibold text-foreground">Phone:</span>{" "}
             <a href="tel:+919655563453" className="text-primary hover:underline">
@@ -26,18 +40,19 @@ const Contact = () => (
             </a>{" "}
             <span className="text-sm">(10AM–7PM IST)</span>
           </li>
+
           <li>
-            <span className="font-semibold text-foreground">Address:</span> 19 D2/1 indra nagar kudil road thuraiyur - 621010
+            <span className="font-semibold text-foreground">Address:</span>{" "}
+            19 D2/1 Indra Nagar, Kudil Road, Thuraiyur - 621010
           </li>
+
           <li>
             <span className="font-semibold text-foreground">Country:</span> India
           </li>
+
           <li>
             <span className="font-semibold text-foreground">Support:</span>{" "}
-            <a
-              href="mailto:solotree@gmail.com"
-              className="text-primary hover:underline"
-            >
+            <a href="mailto:solotree@gmail.com" className="text-primary hover:underline">
               solotree@gmail.com
             </a>
           </li>
@@ -45,8 +60,9 @@ const Contact = () => (
       </div>
 
       <p className="text-center text-muted-foreground mt-8 text-sm">
-        For official business inquiries regarding Solo Tree services, please contact us during
-        working hours.
+        Solo Tree is a registered MSME under the Government of India (Udyam Registration).
+        For official business inquiries regarding Solo Tree services, please contact us
+        during working hours.
       </p>
     </section>
   </Layout>
