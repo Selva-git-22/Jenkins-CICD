@@ -41,7 +41,7 @@ const About = () => (
         <div className="flex justify-center">
           <img
             src={h2Img}
-            alt="Solo Tree Community"
+            alt="Solo Tree"
             className="w-72 h-72 object-contain animate-float"
           />
         </div>
