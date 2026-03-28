@@ -15,8 +15,8 @@ const Contact = () => (
           </li>
           <li>
             <span className="font-semibold text-foreground">Email:</span>{" "}
-            <a href="mailto:solotreebots@gmail.com" className="text-primary hover:underline">
-              solotreebots@gmail.com
+            <a href="mailto:solotree@gmail.com" className="text-primary hover:underline">
+              solotree@gmail.com
             </a>
           </li>
           <li>
@@ -35,10 +35,10 @@ const Contact = () => (
           <li>
             <span className="font-semibold text-foreground">Support:</span>{" "}
             <a
-              href="mailto:solotreebots@gmail.com"
+              href="mailto:solotree@gmail.com"
               className="text-primary hover:underline"
             >
-              solotreebots@gmail.com
+              solotree@gmail.com
             </a>
           </li>
         </ul>

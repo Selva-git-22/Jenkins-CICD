@@ -47,7 +47,7 @@ const sections = [
   },
   {
     title: "Contact Us",
-    content: "For questions, concerns, or support, email us at solotreebots@gmail.com",
+    content: "For questions, concerns, or support, email us at solotree@gmail.com",
   },
 ];
 
