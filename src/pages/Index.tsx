@@ -18,7 +18,7 @@ const teamSlides = [
   },
   {
     img: h6Img,
-    name: "PANJUUUUUUUUU 🍭",
+    name: "PANJUUUUU 🍭",
     role: "Co-Owner",
     nickname: "💛℘αηɉυ ɱιттαι®🫧⃟🤍",
     description:
