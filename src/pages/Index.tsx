@@ -13,7 +13,7 @@ const teamSlides = [
     role: "Owner",
     nickname: "✿ﮩ٨ـﮩﮩ٨ـˢᵐⁱˡᵉʸﮩ٨ـﮩﮩ٨ـ✿",
     description:
-      "Hi, I'm Smiley, people call me \"Lax\". I am currently trying to learn something new, building my own community with parts made only in India.",
+      "Hi, I'm Smiley, people all me \"Lax\". I am currently trying to learn something new, building my own community with parts made only in India.",
     link: "",
   },
   {
